@@ -8,3 +8,4 @@ DSPOT Javascript Test
 4. `npm run test`
 
 ### Preview
+![image](https://user-images.githubusercontent.com/73610976/126239199-9bb05432-4cbb-4f9d-89a2-a8b866ad4668.png)
